@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">過三關</string>
+    <string name="player_goes_first_text">你先開始。</string>
+    <string name="android_turn_text">現在是電腦的回合。</string>
+    <string name="player_turn_text">現在是你的回合 (X)。</string>
+    <string name="game_tie_text">平手!</string>
+    <string name="player_won_text">你贏了!</string>
+    <string name="android_won_text">電腦贏了!</string>
+    <string name="start_a_new_game">開始新的一局</string>
+    <string name="settings_cancel">取消</string>
+    <string name="settings_save">保存</string>
+    <string name="settings_difficulty">難易度</string>
+    <string name="settings_language">語言</string>
+    <string name="option_menu_settings">設定</string>
+    <string name="option_menu_about">關於</string>
+    <string name="settings_first_hand">先手</string>
+    <string name="settings_difficulty_level_1">等級1</string>
+    <string name="settings_difficulty_level_2">等級2</string>
+    <string name="settings_difficulty_level_3">等級3</string>
+    <string name="settings_first_hand_you">你先</string>
+    <string name="settings_first_hand_computer">電腦先</string>
+    <string name="settings_first_hand_random">隨機</string>
+    <string name="score_board">分數榜</string>
+    <string name="player">你</string>
+    <string name="computer">電腦</string>
+    <string name="draw">平手</string>
+    <string name="settings_reset_score">重置分數</string>
+    <string name="option_menu_quit">退出</string>
+    <string name="about_title"><u>歡迎來到過三關!</u></string>
+    <string name="about_guide">在3乘3的格上打自己的符號(X)，最先以橫、直、斜連成一線則為勝。</string>
+    <string name="about_levels">電腦有分三個難度，難度愈高電腦會愈玩得好。</string>
+    <string name="about_ok">了解</string>
+    <string name="about_url">https://zh.wikipedia.org/wiki/井字棋</string>
+    <string name="about_find_out_more">在以下的網址更進一步了解這個遊戲。</string>
+</resources>
